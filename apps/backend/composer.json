@@ -1,4 +1,5 @@
 {
+    "name": "apartment-manager-backend",
     "type": "project",
     "license": "proprietary",
     "require": {
